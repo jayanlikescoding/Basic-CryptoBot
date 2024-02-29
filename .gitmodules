@@ -1,0 +1,3 @@
+[submodule "wazirx-connector-python"]
+	path = wazirx-connector-python
+	url = https://github.com/WazirX/wazirx-connector-python
